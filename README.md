@@ -26,7 +26,7 @@ Event Management
 
 Task Management
 - Create Task
-- Update Task
+- Complete Task
 - Delete Task
 - Filter Task
 
